@@ -1,4 +1,4 @@
-namespace demo_app;
+namespace app;
 
 public class WeatherForecast
 {
